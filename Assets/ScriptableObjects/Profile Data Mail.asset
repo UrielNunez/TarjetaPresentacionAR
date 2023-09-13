@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8040e934e15dec3428df04e32dc35ec9, type: 3}
+  m_Name: Profile Data Mail
+  m_EditorClassIdentifier: 
+  URL: 
+  urlType: 2
+  profileSprite: {fileID: 21300000, guid: 927bb42310d0caf44926091494a097ca, type: 3}
+  useProfileText: 1
+  profileText: Gmail
+  emailDirection: floresnunezuriel@gmail.com
+  emailSubject: Contacto para proyecto...
+  emailBody: Hola Uriel!...

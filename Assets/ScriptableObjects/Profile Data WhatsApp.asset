@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df4e8edb731baf2489b4b62b96d7fd2a, type: 3}
+  m_Name: Profile Data WhatsApp
+  m_EditorClassIdentifier: 
+  URL: https://wa.me/+524771263259
+  urlType: 0
+  profileSprite: {fileID: 21300000, guid: a4ea190cb5fa681429b09dff75ee4e3b, type: 3}
+  useProfileText: 1
+  profileText: WhatsApp
+  emailDirection: 
+  emailSubject: 
+  emailBody: 
